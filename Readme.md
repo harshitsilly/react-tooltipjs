@@ -1,9 +1,13 @@
-To run application :- 
+# Demo :- 
+  https://stackblitz.com/edit/react-hs-tooltipjs
   Click on "Open in New Window" to run the application.
+  To play with this notebook:-
+  
+  Add your Tooltip component in index.js with any target.
 
 
-To use  Tooltip component:-
-
+# use  Tooltip component:-
+  import Tooltip from src folder into your project 
   <Tooltip  content="" placement="right" target={<button className="test1">test</button>} trigger="click"/>
 
     props are defined below:-
@@ -12,9 +16,9 @@ To use  Tooltip component:-
       placement - bottom,top,right,left (default right)
       trigger - click,hover (default hover)
 
-To play with this notebook:-
-  Add your Tooltip component in index.js inside render.
-  
+
+# Todo
+  1) to make work for fixed target component when scrolling. 
   
 # Credits
  Made with stackblitz
