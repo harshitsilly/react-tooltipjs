@@ -14,3 +14,7 @@ To use  Tooltip component:-
 
 To play with this notebook:-
   Add your Tooltip component in index.js inside render.
+  
+  
+# Credits
+ Made with stackblitz
