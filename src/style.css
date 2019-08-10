@@ -1,0 +1,28 @@
+.test1{
+  position: absolute;
+  left : 30%;
+  top: 60px;
+}
+
+
+.test2{
+  position: absolute;
+  left : 90%;
+  top: 60px;
+}
+
+.test3{
+  position: absolute;
+  left : 30%;
+  top: 160px;
+}
+.test4{
+  position: absolute;
+  left : 90%;
+  top: 160px;
+}
+.test5{
+  position: absolute;
+   left : 50%;
+  top: 16000px;
+}
