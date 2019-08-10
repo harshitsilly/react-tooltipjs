@@ -18,7 +18,7 @@
 
 
 # Todo
-  1) to make work for fixed target component when scrolling. 
+  - to make work for fixed target component when scrolling. 
   
 # Credits
  Made with ❤ with stackblitz
