@@ -21,4 +21,4 @@
   1) to make work for fixed target component when scrolling. 
   
 # Credits
- Made with stackblitz
+ Made with ❤ with stackblitz
